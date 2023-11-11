@@ -1,14 +1,9 @@
 [![github_banner](github.png?raw=true)](https://www.oguzhanuzunay.me)
 
-*****
    
-<h3>
-Hi there, I'm <a href="https://www.oguzhanuzunay.me/" target="_blank" rel="noreferrer" style="color:#915eff;"> Oğuzhan Uzunay </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-</h3>  
-<h4> 
-  A passionate Front-end Web Developer 💻 and Designer 🎨! 
-<h4/>
+### Hi there, I'm  [Oğuzhan Uzunay](https://www.oguzhanuzunay.me) <img src="wave.gif" alt="wave" width="30"/>
 
+#### A passionate Front-end Web Developer 💻 and Designer 🎨! 
 
 
 🔭 I’m currently working on **[Dev Overflow Nextjs14](https://github.com/oguzhanuzunay/dev_flow_nextjs14)**
