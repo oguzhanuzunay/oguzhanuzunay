@@ -3,8 +3,13 @@
 </p>  
 
 ##
-### Hi there, I'm <a href="https://www.oguzhanuzunay.me/" target="_blank" rel="noreferrer" style="color:#915eff;"> Oğuzhan Uzunay </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 
-#### A passionate Front-end Web Developer 💻 and Designer 🎨! 
+
+<h3>
+Hi there, I'm <a href="https://www.oguzhanuzunay.me/" target="_blank" rel="noreferrer" style="color:#915eff;"> Oğuzhan Uzunay </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+</h3>  
+<h4> 
+  A passionate Front-end Web Developer 💻 and Designer 🎨! 
+<h4/>
 
 ##
 
@@ -13,7 +18,6 @@
 🌱 I’m currently learning **[Next.js - 14 New Features](https://nextjs.org/blog/next-14)** - and **Next.js - Backend**
 
 📫 How to reach me: **[Personal Website 🏠](https://oguzhanuzunay.me/), [Linkedin 👨‍💼](https://linkedin.com/in/oguzhan-uzunay/)** and Email 📩 : **oguzhan.uzunay@outlook.com**
-
 
 
 ## 🏆 My Skills - Technologies I use
