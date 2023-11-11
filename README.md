@@ -1,4 +1,5 @@
-[![github](https://github.com/oguzhanuzunay/oguzhanuzunay/assets/48884275/9bf5743b-3bd8-405c-9d84-4046bcb3bf88)](https://www.oguzhanuzunay.me)
+[![Github Banner](https://github.com/oguzhanuzunay/oguzhanuzunay/assets/48884275/9bf5743b-3bd8-405c-9d84-4046bcb3bf88)](https://www.oguzhanuzunay.me)
+
 
 # Hi there, I'm <a href="https://www.oguzhanuzunay.me/" target="_blank" rel="noreferrer" style="color:#915eff;"> Oğuzhan Uzunay </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 
 A passionate Front-end Web Developer 💻 and Designer 🎨! 
