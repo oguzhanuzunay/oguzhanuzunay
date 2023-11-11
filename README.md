@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://www.oguzhanuzunay.me" target="_blank" rel="noreferrer"><img src="https://github.com/oguzhanuzunay/oguzhanuzunay/assets/48884275/60017daf-4042-44d0-92f4-158e74da1ac4" alt="github_banner"></a>
-</p>  
+</p> 
 
-##
+*****
 
 <h3>
 Hi there, I'm <a href="https://www.oguzhanuzunay.me/" target="_blank" rel="noreferrer" style="color:#915eff;"> Oğuzhan Uzunay </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
@@ -11,7 +11,7 @@ Hi there, I'm <a href="https://www.oguzhanuzunay.me/" target="_blank" rel="noref
   A passionate Front-end Web Developer 💻 and Designer 🎨! 
 <h4/>
 
-##
+
 
 🔭 I’m currently working on **[Dev Overflow Nextjs14](https://github.com/oguzhanuzunay/dev_flow_nextjs14)**
 
