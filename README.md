@@ -1,11 +1,7 @@
-<p align="center">
-  <a href="https://www.oguzhanuzunay.me" target="_blank" rel="noreferrer">
-    ![github_banner](https://github.com/oguzhanuzunay/oguzhanuzunay/blob/main/github.png?raw=true)
-  </a>
-</p> 
+[![github_banner](github.png?raw=true)](https://www.oguzhanuzunay.me)
 
 *****
-
+   
 <h3>
 Hi there, I'm <a href="https://www.oguzhanuzunay.me/" target="_blank" rel="noreferrer" style="color:#915eff;"> Oğuzhan Uzunay </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 </h3>  
