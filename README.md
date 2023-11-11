@@ -1,5 +1,7 @@
 <p align="center">
-  <a href="https://www.oguzhanuzunay.me" target="_blank" rel="noreferrer"><img src="https://github.com/oguzhanuzunay/oguzhanuzunay/assets/48884275/60017daf-4042-44d0-92f4-158e74da1ac4" alt="github_banner"></a>
+  <a href="https://www.oguzhanuzunay.me" target="_blank" rel="noreferrer">
+    ![github_banner](https://github.com/oguzhanuzunay/oguzhanuzunay/blob/main/github.png?raw=true)
+  </a>
 </p> 
 
 *****
