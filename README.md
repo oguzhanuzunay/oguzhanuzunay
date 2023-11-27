@@ -19,4 +19,4 @@
 ## 🌟 Most Used Weapons 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanuzunay&show_icons=true&locale=en&hide_progress=true&hide=c%23,handlebars&layout=compact&theme=material-palenight)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oguzhanuzunay&theme=material-palenight)](https://github.com/oguzhanuzunay/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oguzhanuzunay&theme=material-palenight)](https://wakatime.com/@oguzhanuzunay)
