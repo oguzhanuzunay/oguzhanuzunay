@@ -6,7 +6,7 @@
 #### A passionate Front-end Web Developer 💻 and Designer 🎨! 
 
 
-🔭 I’m currently working on **Dizayn Group**
+🔭 I’m currently working at **Dizayn Group**
 
 🌱 I’m currently learning **[Next.js - 14 New Features](https://nextjs.org/blog/next-14)** - and **Next.js - Backend**
 
