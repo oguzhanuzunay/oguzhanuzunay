@@ -1,16 +1,16 @@
-[![github_banner](github.png?raw=true)](https://www.oguzhanuzunay.me)
+[![github_banner](github.png?raw=true)](https://www.oguzhanuzunay.com)
 
    
-### Hi there, I'm  [Oğuzhan Uzunay](https://www.oguzhanuzunay.me) <img src="wave.gif" alt="wave" width="30"/>
+### Hi there, I'm  [Oğuzhan Uzunay](https://www.oguzhanuzunay.com) <img src="wave.gif" alt="wave" width="30"/>
 
 #### A passionate Front-end Web Developer 💻 and Designer 🎨! 
 
 
-🔭 I’m currently working on **[Dev Overflow Nextjs14](https://github.com/oguzhanuzunay/dev_flow_nextjs14)**
+🔭 I’m currently working on **Dizayn Group**
 
 🌱 I’m currently learning **[Next.js - 14 New Features](https://nextjs.org/blog/next-14)** - and **Next.js - Backend**
 
-📫 How to reach me: **[Personal Website 🏠](https://oguzhanuzunay.me/), [Linkedin 👨‍💼](https://linkedin.com/in/oguzhan-uzunay/)** and Email 📩 : **oguzhan.uzunay@outlook.com**
+📫 How to reach me: **[Personal Website 🏠](https://oguzhanuzunay.com/), [Linkedin 👨‍💼](https://linkedin.com/in/oguzhanuzunay/)** and Email 📩 : **oguzhan.uzunay@outlook.com**
 
 
 ## 🏆 My Skills - Technologies I use
